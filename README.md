@@ -9,7 +9,7 @@ Create the SQL Database
 
     Click New, name the database registraion_system_db, and click Create.
 
-   import file#01
-   
+   2. import file# sql , to create the table user
+      
    
 3. 
